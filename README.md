@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>🔨Stack⛏</p>
+
+
+<p>💙MY LINK💙</p>
+<a href="https://blog.naver.com/ming9396" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=#03C75A&logoColor=green"/></a>
