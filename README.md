@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 <p>💙MY LINK💙</p>
-<a href="https://blog.naver.com/ming9396" target="_blank"><img src="https://img.shields.io/badge/blog-#03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/ming9396" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
