@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=MINGMING&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=MINGMING&fontSize=50&fontColor=f6f3ff&animation=fadeIn)
   
 ### Hi there 👋
 
@@ -35,6 +35,6 @@
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=Hello!!%20render&fontSize=90&animation=fadeOut)
 </div>
 
