@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p><strong>🔨Stack⛏</strong></p>
 <div>
-<a href="https://blog.naver.com/ming9396"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바--></a>
-<a href="https://blog.naver.com/ming9396"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><!--파이썬--></a>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" style="pointer-events: none;"><!--자바-->
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><!--파이썬-->
 </div>
 <div>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><!--오라클-->
