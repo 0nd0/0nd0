@@ -19,10 +19,11 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"><!--HTML-->
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"><!--CSS-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><!--Javascrip-->
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"><!--jQuery-->
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"><!--jQuery-->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><!--Bootstrap-->
 </div>
 <div>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"><!--이클립스-->
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><!--Github-->
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"><!--아파치톰캣-->
 </div>
