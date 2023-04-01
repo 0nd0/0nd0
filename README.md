@@ -3,6 +3,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
   
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+  
 ### Hi there 👋
 
 <p><strong>🔨Stack⛏</strong></p>
