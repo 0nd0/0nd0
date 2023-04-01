@@ -1,7 +1,7 @@
 <div align="center">
 
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hello!!&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello!!&fontSize=80&animation=fadeIn)
   
 ### Hi there 👋
 
@@ -36,6 +36,7 @@
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
-![footer]![reversal](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
 </div>
+
+background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
