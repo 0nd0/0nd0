@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=MING's&nbsp;GITHUB!&fontSize=50&fontColor=9795f0&animation=fadeIn)
   
-## Hi there 👋
+<p font-size="40px">Hi there 👋</p>
 
 <!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
 ## 📚Tech Stack📚
