@@ -4,6 +4,8 @@
   
 ### Hi there 👋
 
+<br><br>  
+  
 <!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
 ### 📚Tech Stack📚
 <p>✏️Languages✏️</p>  
@@ -33,7 +35,7 @@
 <br>
   
 <!-- SNS -->
-<p>💙MINGMING💙</p>
+### 💙MINGMING💙
 <!-- 네이버 블로그 -->
 <a href="https://blog.naver.com/ming9396" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <!-- 노션 - 포트폴리오 -->
