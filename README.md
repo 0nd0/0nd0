@@ -36,13 +36,15 @@
   
 <!-- SNS -->
 ### 💙MINGMING💙
+<div>
 <!-- 네이버 블로그 -->
 <a href="https://blog.naver.com/ming9396" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <!-- 노션 - 포트폴리오 -->
 <a href="https://www.notion.so/ming2/85f73e6fbab6438c986660ea776ca5a2" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
- 
+</div>
+  
 <br>
 
 <!-- 프로필요약 API -->
