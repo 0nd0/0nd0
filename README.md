@@ -3,8 +3,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
   
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
-  
 ### Hi there 👋
 
 <p><strong>🔨Stack⛏</strong></p>
@@ -38,4 +36,6 @@
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
+  
+![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
