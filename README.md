@@ -4,7 +4,7 @@
   
 ### Hi there 👋
 
-<!-- 기술 스택 -->
+<!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
 <p><strong>🔨Tech Stack⛏</strong></p>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바-->
@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"><!--HTML-->
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"><!--CSS-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><!--Javascrip-->
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"><!--jQuery-->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><!--Bootstrap-->
 </div>
 <div>
