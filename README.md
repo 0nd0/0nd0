@@ -1,7 +1,6 @@
 <div align="center">
-
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello!!&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:cd9cf2,100:f6f3ff&height=200&section=header&text=Hello!!&fontSize=80&animation=fadeIn)
   
 ### Hi there 👋
 
@@ -39,4 +38,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=Hello!!%20render&fontSize=90&animation=fadeIn)
 </div>
 
-background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
