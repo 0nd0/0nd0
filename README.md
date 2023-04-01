@@ -35,6 +35,6 @@
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=footer&text=Thanks!!&fontSize=90&animation=fadeOut)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=footer&text=Thanks!!&fontSize=50&fontColor=9795f0&animation=fadeOut)
 </div>
 
