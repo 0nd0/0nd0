@@ -5,16 +5,17 @@
 ### Hi there 👋
 
 <!-- 기술 스택 -->
-<p><strong>🔨Stack⛏</strong></p>
+<p><strong>🔨Tech Stack⛏</strong></p>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바-->
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><!--파이썬-->
+<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">스프링 -->
 </div>
 <div>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><!--오라클-->
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><!--몽고DB-->
 </div>
-<div>
+<div>  
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"><!--HTML-->
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"><!--CSS-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><!--Javascrip-->
@@ -23,10 +24,8 @@
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><!--Github-->
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"><!--아파치톰캣-->
-<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">스프링 -->
 </div>
-
-
+  
 <!-- SNS -->
 <p><strong>💙MINGMING💙</strong></p>
 <!-- 네이버 블로그 -->
