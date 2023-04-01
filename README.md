@@ -61,7 +61,6 @@
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=footer&text=Thanks!!&fontSize=50&fontColor=9795f0&animation=blinking)
 </div>
 
-<img src="http://mazandi.herokuapp.com/api?handle=0nd0&theme=warm"/>
 
 <!--
 ##  🍎 iOS 커리큘럼
