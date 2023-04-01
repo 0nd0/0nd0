@@ -34,7 +34,9 @@
 <a href="https://www.notion.so/ming2/85f73e6fbab6438c986660ea776ca5a2" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!-- 이메일 -->
 <a href="mailto:ming9396@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
-
+ 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0nd0%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
+  
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=footer&text=Thanks!!&fontSize=50&fontColor=9795f0&animation=fadeOut)
 </div>
 
