@@ -2,10 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=MING's&nbsp;GITHUB!&fontSize=50&fontColor=9795f0&animation=fadeIn)
   
-<p font-size="40px">Hi there 👋</p>
+### Hi there 👋
 
 <!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
-## 📚Tech Stack📚
+### 📚Tech Stack📚
+---
 <p>✏️Languages✏️</p>  
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바-->
