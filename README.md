@@ -8,7 +8,7 @@
   
 <!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
 ### 📚Tech Stack📚
-<p>✏️Languages✏️</p>  
+**✏️Languages✏️**  
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바-->
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><!--파이썬-->
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><!--Bootstrap-->
 </div>
   
-<p>🔨Tools⛏</p>
+**🔨Tools⛏**
 <div>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"><!--이클립스-->
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"><!--VS Code-->
@@ -47,16 +47,11 @@
   
 <br>
 
-<div class="pull-left">
+<div>
   
 <!-- 프로필요약 API -->
 ![0nd0's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
-  
-</div>
-<div class="pull-right">  
-
-<!-- Top Languages card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nd0)](https://github.com/0nd0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0nd0)](https://github.com/0nd0/github-readme-stats) <!-- Top Languages card -->
 
 </div>
 
