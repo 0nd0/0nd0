@@ -2,16 +2,15 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=MING's&nbsp;GITHUB!&fontSize=50&fontColor=9795f0&animation=fadeIn)
   
-### Hi there 👋
+## Hi there 👋
 
 <!-- 기술 스택 --><!-- https://simpleicons.org/ 참고 -->
-<p><strong>🔨Tech Stack⛏</strong></p>
+## 📚Tech Stack📚
+<p>✏️Languages✏️</p>  
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><!--자바-->
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"><!--파이썬-->
 <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">스프링 -->
-</div>
-<div>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><!--오라클-->
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><!--몽고DB-->
 </div>
@@ -22,6 +21,8 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"><!--jQuery-->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"><!--Bootstrap-->
 </div>
+  
+<p>🔨Tools⛏</p>
 <div>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"><!--이클립스-->
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"><!--VS Code-->
